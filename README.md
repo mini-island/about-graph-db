@@ -1,3 +1,6 @@
-# My Awesome Book
+# Graph Database
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Graph database 在今天已經成為資料庫系統中，不可或缺，並且擁有許多主流應用的資料庫種類之一。本書整理並分享有關於 Graph database 的一切，希望不論是新手或是老手，都能得到幫助。
+
+本書由 iServDB 資料庫團隊持續編撰。
+
