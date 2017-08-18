@@ -1,7 +1,7 @@
 # Summary
 
 * [本書簡介](README.md)
-* Graph Database
+* [有哪些 Graph Database](graph-database.md)
 * Researches
 * Market Trends
 
