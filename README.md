@@ -7,4 +7,5 @@ Graph database 在今天已經成為資料庫系統中，不可或缺，並且�
 本書由 iServDB 資料庫團隊持續編撰。
 
 [![中文就要用中文字型](https://img.shields.io/badge/Noto%20CJK-GitBook%20Plugin-brightgreen.svg)](https://plugins.gitbook.com/plugin/notocjk)
+[![iServDB](https://img.shields.io/badge/Unlock%20your%20data-iServDB-orange.svg)](https://iServDB.github.io)
 
