@@ -8,4 +8,5 @@
   * Titan
 * [Researches](researches.md)
 * Market Trends
+* [References](references.md)
 
