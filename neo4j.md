@@ -26,6 +26,24 @@ Neo4j 以世界領導的 Graph database為名，有其一定的道理。因為�
 
 * 提供原生的 Java API： Cypher API and Native Java API。
 
+### 優勢
+
+* 顯示 Graph 資料非常容易。
+
+* 查詢或追蹤圖型資料都很簡單且快速。
+
+* 產生中繼的結構性結果很容易。
+
+* Neo4j CQL 的可讀性高，而且很容易學習。
+
+* 資料模型設計地很簡單，卻又很強大。
+
+* 設計上不需要複雜的 JOIN 查詢就能得到關連的結果，所以也不需要額外建立其他的索引。
+
+### 缺點
+
+* 不支援分散式運算。
+
 ---
 
 [^1]:  [Neo4j, the world's leading graph database - Neo4j Graph Database](https://neo4j.com/)
