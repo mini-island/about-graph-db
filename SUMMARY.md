@@ -7,10 +7,8 @@
   * OrientDB
   * Titan
 * [Graph Databases for Beginners](graph-databases-for-beginners.md)
-  * The Basics of Data Modeling
+  * [The Basics of Data Modeling](graph-databases-for-beginners/the-basics-of-data-modeling.md)
 * [Researches](researches.md)
 * Market Trends
 * [References](references.md)
-
-
 
