@@ -6,7 +6,12 @@
   * [Neo4j](neo4j.md)
   * OrientDB
   * Titan
+* Graph Databases for Beginners
+
 * [Researches](researches.md)
+
 * Market Trends
 * [References](references.md)
+
+
 
