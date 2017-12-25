@@ -6,10 +6,9 @@
   * [Neo4j](neo4j.md)
   * OrientDB
   * Titan
-* Graph Databases for Beginners
-
+* [Graph Databases for Beginners](graph-databases-for-beginners.md)
+  * The Basics of Data Modeling
 * [Researches](researches.md)
-
 * Market Trends
 * [References](references.md)
 
